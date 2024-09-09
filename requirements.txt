@@ -31,6 +31,7 @@ stop-words==2015.2.23.1
 tqdm==4.28.1
 urllib3>=1.20,<1.25
 pyLDAvis==2.1.1
+jupyter==1.0.0
 
 
 
